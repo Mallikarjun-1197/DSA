@@ -1,0 +1,4 @@
+Following is the road map that i am following.
+Step1 : Understand what is time complextity and how can we calculate it, there are many youtube videos about the concept but as a software professional understanding the pragmatic part of time complexity is important. In simple words TimeComplexity says "How your code slows down as the input data volume increases".
+https://www.youtube.com/watch?v=Ee0HzlnIYWQ is one of the resource that gives a new dimension to look at things.
+I have solved problems related to time complexity from Interview Bit https://www.interviewbit.com/courses/programming/topics/time-complexity
